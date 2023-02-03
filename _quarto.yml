@@ -4,11 +4,22 @@ project:
 
 website:
   title: "quarto-testsite"
+  description: "This is a test website to try out Quarto."
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
       - about.qmd
+    left:
+      - icon: github
+        href: https://github.com/
+        aria-label: GitHub
+      - icon: twitter
+        href: https://twitter.com/
+        aria-label: twitter
+      - icon: youtube
+        href: https://www.youtube.com/
+        aria-label: YouTube
 
 format:
   html:
