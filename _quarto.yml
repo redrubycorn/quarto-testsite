@@ -10,6 +10,8 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - blog.qmd
+
     left:
       - icon: github
         href: https://github.com/

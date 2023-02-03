@@ -7,6 +7,41 @@
     "text": "About this site"
   },
   {
+    "objectID": "blog-posts/AI-news.html",
+    "href": "blog-posts/AI-news.html",
+    "title": "AI news",
+    "section": "",
+    "text": "Some third post."
+  },
+  {
+    "objectID": "blog-posts/first-post.html",
+    "href": "blog-posts/first-post.html",
+    "title": "First post",
+    "section": "",
+    "text": "Some first post."
+  },
+  {
+    "objectID": "blog-posts/second-post.html",
+    "href": "blog-posts/second-post.html",
+    "title": "Second post",
+    "section": "",
+    "text": "Some second post."
+  },
+  {
+    "objectID": "blog-posts/third-post.html",
+    "href": "blog-posts/third-post.html",
+    "title": "Python news",
+    "section": "",
+    "text": "Some third post."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "myblog",
+    "section": "",
+    "text": "This is the blog.\n\n\n\n\n\n\n\n\n\n\nPython news\n\n\n\n\n\n\n\npython\n\n\n\n\nHere some hot news about Python\n\n\n\n\n\n\nFeb 3, 2023\n\n\nredrubycorn\n\n\n\n\n\n\n\n\nFirst post\n\n\n\n\n\n\n\npytorch\n\n\n\n\nThis is my very first post. Wuhuuuu!\n\n\n\n\n\n\nFeb 2, 2023\n\n\nredrubycorn\n\n\n\n\n\n\n\n\nSecond post\n\n\n\n\n\n\n\npython\n\n\n\n\nThis is a post about Python.\n\n\n\n\n\n\nJan 21, 2023\n\n\nredrubycorn\n\n\n\n\n\n\n\n\nAI news\n\n\n\n\n\n\n\npytorch\n\n\nAI\n\n\n\n\nWhats new in the world of artificial intelligence.\n\n\n\n\n\n\nJan 13, 2023\n\n\nredrubycorn\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "quarto-testsite",

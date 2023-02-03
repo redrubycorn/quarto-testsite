@@ -1,0 +1,11 @@
+[
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/blog-posts/third-post.html",
+      "/blog-posts/first-post.html",
+      "/blog-posts/second-post.html",
+      "/blog-posts/AI-news.html"
+    ]
+  }
+]

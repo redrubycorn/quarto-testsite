@@ -1,0 +1,10 @@
+---
+title: "Second post"
+description: "This is a post about Python."
+author: "redrubycorn"
+date: "1/21/2023"
+categories:
+  - python
+---
+
+Some second post.

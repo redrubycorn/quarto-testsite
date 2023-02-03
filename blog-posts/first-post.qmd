@@ -1,0 +1,10 @@
+---
+title: "First post"
+description: "This is my very first post. Wuhuuuu!"
+author: "redrubycorn"
+date: "2/2/2023"
+categories:
+  - pytorch
+---
+
+Some first post.

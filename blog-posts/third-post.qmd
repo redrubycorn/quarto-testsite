@@ -1,0 +1,10 @@
+---
+title: "Python news"
+description: "Here some hot news about Python"
+author: "redrubycorn"
+date: "2/3/2023"
+categories:
+  - python
+---
+
+Some third post.

@@ -1,0 +1,11 @@
+---
+title: "AI news"
+description: "Whats new in the world of artificial intelligence."
+author: "redrubycorn"
+date: "1/13/2023"
+categories:
+  - pytorch
+  - AI
+---
+
+Some third post.
