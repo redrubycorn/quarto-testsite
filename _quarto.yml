@@ -5,13 +5,19 @@ project:
 website:
   title: "quarto-testsite"
   description: "This is a test website to try out Quarto."
-  navbar:
-    right:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-      - blog.qmd
 
+  navbar:
+
+    right:
+      - text: "home"
+        href: index.qmd
+      - text: "about"
+        href: about.qmd
+      - text: "blog"
+        href: blog.qmd
+      - text: "tutorials"
+        file: tutorials/index.qmd
+    
     left:
       - icon: github
         href: https://github.com/
@@ -22,6 +28,31 @@ website:
       - icon: youtube
         href: https://www.youtube.com/
         aria-label: YouTube
+
+  sidebar:
+    - title: "tutorials"
+      style: docked
+      collapse-level: 1
+      search: true
+      contents:
+        - tutorials/index.qmd
+        - section: "Tutorial 1"
+          contents:
+            - tutorials/tutorial1/lesson1.qmd
+            - tutorials/tutorial1/lesson2.qmd
+            - tutorials/tutorial1/lesson3.qmd
+        - section: "Tutorial 2"
+          contents:
+            - tutorials/tutorial2/lesson1.qmd
+            - tutorials/tutorial2/lesson2.qmd
+    - title: "Subsection 1"
+      contents:
+        - subsection1/index.qmd
+        - subsection1/article1.qmd
+    - title: "Subsection 2"
+      contents: 
+        - subsection2/index.qmd
+        - subsection2/article1.qmd
   
   page-footer: 
     left: "Copyright 2023, test"

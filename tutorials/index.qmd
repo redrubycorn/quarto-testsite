@@ -1,0 +1,9 @@
+---
+title: "tutorials"
+---
+
+This is the tutorial page. On the left, you can find all the different tutorials.
+
+There are:
+* Tutorial 1
+* Tutorial 2
