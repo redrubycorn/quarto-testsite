@@ -20,6 +20,19 @@ website:
       - icon: youtube
         href: https://www.youtube.com/
         aria-label: YouTube
+  
+  page-footer: 
+    left: "Copyright 2023, test"
+    right: 
+      - icon: github
+        href: https://github.com/
+        aria-label: GitHub
+      - icon: twitter
+        href: https://twitter.com/
+        aria-label: twitter
+      - icon: youtube
+        href: https://www.youtube.com/
+        aria-label: YouTube
 
 format:
   html:
