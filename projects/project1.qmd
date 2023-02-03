@@ -1,0 +1,11 @@
+---
+title: "Project 1"
+date: 1/22/2023
+description: "Project with Raspberry Pico and CircuitPython."
+image: project1.jpeg
+categories:
+  - circuitpython
+  - micropython
+---
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lacus nisi, dapibus eu tincidunt accumsan, ullamcorper quis augue. Quisque consequat ultrices ligula quis cursus. Phasellus vel eros velit. Duis ut ante velit. Morbi eget elit ipsum. Curabitur venenatis sem ut pretium blandit. Nunc id tellus placerat, pulvinar risus eget, dictum nisi. Aenean vel cursus velit. Fusce id libero mollis ligula consectetur ultricies nec sit amet tellus. Vivamus posuere lacus sit amet dolor cursus, sed rhoncus ex varius. Pellentesque metus quam, faucibus ut odio nec, convallis aliquet nibh. Ut rhoncus eleifend euismod. Nunc porttitor, ligula non sagittis dapibus, purus turpis hendrerit mauris, eu lacinia eros sem sed metus. Quisque consectetur imperdiet purus ut sodales. Sed at ligula magna.

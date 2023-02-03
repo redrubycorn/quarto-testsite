@@ -1,0 +1,12 @@
+---
+title: "Project 3"
+date: 1/22/2023
+description: "Nullam neque felis, interdum non aliquet quis, dignissim sed justo. Donec tempor est sed urna ornare pharetra."
+image: project3.jpeg
+categories:
+  - pytorch
+---
+
+Morbi nec justo sapien. Vestibulum quis ipsum consectetur, scelerisque diam id, dictum ligula. Cras dictum ullamcorper ligula nec blandit. Mauris ullamcorper magna et nibh malesuada tempor. Vestibulum a luctus metus. Cras nec dolor nec libero gravida mollis. Maecenas ut quam purus. Maecenas ac elit vulputate ipsum vestibulum malesuada. Pellentesque tristique sodales nisi. Mauris non tincidunt odio. Suspendisse tempor tristique tincidunt.
+
+Maecenas sagittis sodales blandit. Vivamus lorem metus, pellentesque sed odio a, bibendum eleifend sapien. Nullam condimentum interdum tincidunt. Sed congue ut tellus vitae mattis. Phasellus id lacus bibendum, efficitur velit non, varius sem. Nulla mollis a ipsum id congue. Donec bibendum turpis sit amet nulla convallis mattis.

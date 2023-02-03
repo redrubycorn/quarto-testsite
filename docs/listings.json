@@ -7,5 +7,14 @@
       "/blog-posts/second-post.html",
       "/blog-posts/AI-news.html"
     ]
+  },
+  {
+    "listing": "/projects/index.html",
+    "items": [
+      "/projects/project2.html",
+      "/projects/project1.html",
+      "/projects/project3.html",
+      "/projects/project4.html"
+    ]
   }
 ]

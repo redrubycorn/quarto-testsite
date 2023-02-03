@@ -1,0 +1,10 @@
+---
+title: "Project 4"
+date: 1/22/2023
+description: "Morbi nec justo sapien. Vestibulum quis ipsum consectetur, scelerisque diam id, dictum ligula. Cras dictum ullamcorper ligula nec blandit."
+image: project4.jpeg
+categories:
+  - raspberrypico
+---
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sed ex ac felis mattis malesuada. Integer pellentesque, eros eu eleifend congue, ante risus iaculis enim, sed tempor diam dui at risus. Vestibulum vel commodo tortor, et bibendum ipsum. Suspendisse feugiat lectus id nisl mollis, a auctor magna aliquet. Phasellus laoreet nulla vitae lectus aliquet, ac mattis velit faucibus. Donec fermentum vehicula elit, eget ultricies diam iaculis quis. Suspendisse sodales blandit arcu rutrum fringilla. Cras consequat hendrerit condimentum. Nulla id lorem tempus, ullamcorper tellus vel, gravida augue. Sed id luctus tortor. In mollis dolor lacus. Sed at dolor quis ex consectetur blandit eu vitae sapien.

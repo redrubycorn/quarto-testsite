@@ -15,6 +15,8 @@ website:
         href: about.qmd
       - text: "blog"
         href: blog.qmd
+      - text: "projects"
+        file: projects/index.qmd
       - text: "tutorials"
         file: tutorials/index.qmd
     
@@ -33,7 +35,6 @@ website:
     - title: "tutorials"
       style: docked
       collapse-level: 1
-      search: true
       contents:
         - tutorials/index.qmd
         - section: "Tutorial 1"
@@ -45,14 +46,13 @@ website:
           contents:
             - tutorials/tutorial2/lesson1.qmd
             - tutorials/tutorial2/lesson2.qmd
-    - title: "Subsection 1"
+    - title: "projects"
       contents:
-        - subsection1/index.qmd
-        - subsection1/article1.qmd
-    - title: "Subsection 2"
-      contents: 
-        - subsection2/index.qmd
-        - subsection2/article1.qmd
+        - projects/index.qmd
+        - projects/project1.qmd
+        - projects/project2.qmd
+        - projects/project3.qmd
+        - projects/project4.qmd
   
   page-footer: 
     left: "Copyright 2023, test"
@@ -69,7 +69,7 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: vapor
     css: styles.css
     toc: true
 
