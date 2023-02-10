@@ -19,17 +19,6 @@ website:
         file: projects/index.qmd
       - text: "tutorials"
         file: tutorials/index.qmd
-    
-    left:
-      - icon: github
-        href: https://github.com/
-        aria-label: GitHub
-      - icon: twitter
-        href: https://twitter.com/
-        aria-label: twitter
-      - icon: youtube
-        href: https://www.youtube.com/
-        aria-label: YouTube
 
   sidebar:
     - title: "tutorials"
