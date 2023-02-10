@@ -22,7 +22,7 @@ website:
 
   sidebar:
     - title: "tutorials"
-      style: docked
+      style: floating
       collapse-level: 1
       contents: tutorials
     - title: "projects"
