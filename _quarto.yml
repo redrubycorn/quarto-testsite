@@ -24,17 +24,7 @@ website:
     - title: "tutorials"
       style: docked
       collapse-level: 1
-      contents:
-        - tutorials/index.qmd
-        - section: "Tutorial 1"
-          contents:
-            - tutorials/tutorial1/lesson1.qmd
-            - tutorials/tutorial1/lesson2.qmd
-            - tutorials/tutorial1/lesson3.qmd
-        - section: "Tutorial 2"
-          contents:
-            - tutorials/tutorial2/lesson1.qmd
-            - tutorials/tutorial2/lesson2.qmd
+      contents: tutorials
     - title: "projects"
       contents:
         - projects/index.qmd
